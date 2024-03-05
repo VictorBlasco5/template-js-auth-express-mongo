@@ -14,8 +14,16 @@ $npm i nodemon -D
 $npm i nodemon -E
 ````
 
-```json
+````json
 {
-    "type": "module,
+    "type": "module",
 }
-```
+````
+
+````bash
+$git init
+````
+
+````bash
+$npm i mongoose
+````
