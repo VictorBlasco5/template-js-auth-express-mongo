@@ -32,6 +32,10 @@ $npm i mongoose
 $npm i bcrypt
 ````
 
+````bash
+$npm i jsonwebtoken
+````
+
 ````txt
 creamos modelo
 ````
